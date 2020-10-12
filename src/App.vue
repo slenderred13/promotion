@@ -17,7 +17,7 @@
     </v-main>
     <v-navigation-drawer v-model="rightDrawer" :right="right" temporary fixed>
     </v-navigation-drawer>
-    <v-footer :absolute="!fixed" app> หน้าหี</v-footer>
+    <v-footer :absolute="!fixed" app></v-footer>
 </v-app>
 </template>
 
